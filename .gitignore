@@ -1,0 +1,11 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+
+# Local server / tunnel logs (not part of the site)
+*.log
+
+# Local Claude Code tooling
+.claude/
