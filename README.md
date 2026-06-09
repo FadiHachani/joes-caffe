@@ -2,7 +2,7 @@
 
 A static, mobile-first digital menu for **Joe's Caffè** (Tunis). Scan a QR code → see the full menu. No app, no build step.
 
-🔗 **Live:** https://USERNAME.github.io/joes-caffe/ _(updated after deploy)_
+🔗 **Live:** https://fadihachani.github.io/joes-caffe/
 
 ## Editing the menu
 
